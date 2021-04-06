@@ -1,0 +1,8 @@
+Existen 3 tipos de permisos:
+Lectura: permite a un cierto usuario ver el contenido de un archivo. Si es un directorio, el contenido del mismo.
+Escritura: permite modificar un archivo. Si es un directorio, el contenido del mismo.
+Ejecución: si existe algo que ejecutar, se podrá hacer con este permiso.
+«-rwxr-rw-« – Esta parte de la línea muestra permisos. ...
+1 – Una cantidad de enlaces fijos (hard links). ...
+user user – Muestra el propietario y el propietario del grupo del archivo.
+0 – Esto muestra el tamaño del archivo.
